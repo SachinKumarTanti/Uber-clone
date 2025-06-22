@@ -1,0 +1,7 @@
+/* App.css */
+.bg-home-back {
+    background-image: url('../assets/home-back.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+
